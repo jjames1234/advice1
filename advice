@@ -1,1 +1,122 @@
-{"slip": { "id": 118, "advice": "A common regret in life is wishing one had the courage to be ones true self."}}
+[
+  {
+    "id": 1,
+    "advice": "pets make great friends, unless you have allergies"
+  },
+  {
+    "id": 2,
+    "advice": "always tie your shoes"
+  },
+  {
+    "id": 3,
+    "advice": "pizza is good cold the next day"
+  },
+  {
+    "id": 4,
+    "advice": "people may get mad if you order pineapple on a pizza"
+  },
+  {
+    "id": 5,
+    "advice": "sometimes you can be right and wrong"
+  },
+  {
+    "id": 6,
+    "advice": "tuna in a can is small, tuna in the ocean is huge"
+  },
+  {
+    "id": 7,
+    "advice": "Try using an old idea"
+  },
+  {
+    "id": 8,
+    "advice": "Once in a while, eat some sweets you used to enjoy when you were younger."
+  },
+  {
+    "id": 9,
+    "advice": "Drink a glass of water before meals"
+  },
+  {
+    "id": 10,
+    "advice": "Always seek out advice or opinions when making a decision"
+  },
+  {
+    "id": 11,
+    "advice": "A narrow focus brings big results"
+  },
+  {
+    "id": 12,
+    "advice": "Don't make assumptions"
+  },
+  {
+    "id": 13,
+    "advice": "Be patient and persistent"
+  },
+  {
+    "id": 14,
+    "advice": "Luck comes from hard work"
+  },
+  {
+    "id": 15,
+    "advice": "Be your best at all times"
+  },
+  {
+    "id": 16,
+    "advice": "Don't try to impress everyone"
+  },
+  {
+    "id": 17,
+    "advice": "Don't be afraid of being afraid"
+  },
+  {
+    "id": 18,
+    "advice": "Listen to learn"
+  },
+  {
+    "id": 19,
+    "advice": "Life's good, but it's not fair."
+  },
+  {
+    "id": 20,
+    "advice": "No task is beneath you"
+  },
+  {
+    "id": 21,
+    "advice": "You can't always get what you want"
+  },
+  {
+    "id": 22,
+    "advice": "Don't make decisions when you are angry"
+  },
+  {
+    "id": 23,
+    "advice": "Do what is right, not what is easy"
+  },
+  {
+    "id": 24,
+    "advice": "Dreams remain dreams until you take action"
+  },
+  {
+    "id": 25,
+    "advice": "Treat others the way you want to be treated"
+  },
+  {
+    "id": 26,
+    "advice": "Trust your instincts"
+  },
+  {
+    "id": 27,
+    "advice": "Learn something new every day"
+  },
+  {
+    "id": 28,
+    "advice": "Make what is valuable important"
+  },
+  {
+    "id": 29,
+    "advice": "Believe in yourself"
+  },
+  {
+    "id": 30,
+    "advice": "Don’t look at the calendar. Just keep celebrating every day"
+    }
+]
